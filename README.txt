@@ -1,1 +1,2 @@
-this is a git init test, to upload to github
+this is a git init test, called test2, 
+meant to be an upload to github
